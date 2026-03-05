@@ -1,0 +1,3 @@
+Enter the number of students: Male, Female and OthersPercentage of Male: 50.00
+Percentage of Female: 25.00
+Percentage of Others: 25.00
